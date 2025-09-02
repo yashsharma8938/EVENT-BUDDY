@@ -67,7 +67,7 @@ onSnapshot(eventsQuery,(snapshot) => {
       </span>
       <div class="actions">
         <button class="complete">✔</button>
-        <button class="edit">✏</button>
+        <button class="edit">✏️</button>
         <button class="delete">❌</button>
       </div>
     `;
